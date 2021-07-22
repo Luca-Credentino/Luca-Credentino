@@ -1,14 +1,14 @@
  <h1>👋 Hi, I’m <a href="https://github.com/Luca-Credentino">@Luca-Credentino</a></h1> 
- <ul>
-  <h2>Junior Front-End developer & Web Developer 👨‍💻 </h2>
+   <h2>Junior Front-End developer & Web Developer 👨‍💻 </h2>
   <h3>Skills 📝:</h3>
+ <ul>
   <li>
     <a href="https://www.w3.org/MarkUp/html3/intro.html">HTML5</a>
   </li>
     <li>
      <a href="https://www.w3schools.com/css/">CSS3</a>
   </li>
-      <li>
+  <li>
     <a href="https://www.javascript.com/">JavaScript</a>
   </li>
   <li>
@@ -18,10 +18,26 @@
   <li>
     <a href="https://getbootstrap.com/">Bootstrap</a>
   </li>
-    <li>
+  <li>
       <a href="https://reactjs.org/">React</a>
-  </li
+ </li>
 </ul>
+     <h3>Actualy i'm learning ✍️:</h3>
+     <ul>
+ <li>
+ <a href="https://reactnative.dev/">React & React Native</a>
+  </li>
+      <li>
+   <a href="https://en.wikipedia.org/wiki/SQL">SQL</a>
+      </li>
+       <li>
+  <a href="https://nodejs.org/en/">Node.js</a>
+      </li>
+ <li>
+    <a href="https://www.mongodb.com/cloud/atlas/lp/try2?utm_source=google&utm_campaign=gs_emea_italy_search_core_brand_atlas_desktop&utm_term=mongo%20db&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=12212624533&gclid=CjwKCAjwruSHBhAtEiwA_qCppn8y9nOH0xqKBzRF8vJ10VVgnYs7eDDFUvJ58rE9J8aa6xmnwOyw1xoCZA0QAvD_BwE">MongoDB</a>
+ </li>
+     </ul>
+     <hr>
 <!---
 Luca-Credentino/Luca-Credentino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
