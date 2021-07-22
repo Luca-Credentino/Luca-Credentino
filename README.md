@@ -1,4 +1,5 @@
  <h1>👋 Hi, I’m <a href="https://github.com/Luca-Credentino">@Luca-Credentino</a></h1> 
+ <hr>
    <h2>Junior Front-End developer & Web Developer 👨‍💻 </h2>
   <h3>Skills 📝:</h3>
  <ul>
