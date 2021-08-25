@@ -24,9 +24,9 @@
    <li>
     <a href="https://jquery.com/">jQuery</a>
   </li>
-</ul>
-     <h3>Actualy i'm learning ✍️:</h3>
-     <ul>
+</ul
+ <h3>Actualy i'm learning ✍️:</h3>
+ <ul>
  <li>
  <a href="https://reactnative.dev/">React.js & React Native</a>
   </li>
