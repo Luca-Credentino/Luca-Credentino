@@ -1,6 +1,7 @@
  <h1>👋 Hi, I’m <a href="https://github.com/Luca-Credentino">Luca Credentino</a></h1> 
-   <h2>Junior Front-End developer & Web Developer 👨‍💻 </h2>
-  <h3>Skills 📝:</h3>
+   <h3>Junior Front-End developer & Web Developer 👨‍💻 </h3>
+   <br>
+   <h2>Skills 📝:</h2>
  <ul>
   <li>
     <a href="https://www.w3.org/MarkUp/html3/intro.html">HTML5</a>
@@ -14,7 +15,6 @@
   <li>
 <a href="https://developer.android.com/kotlin?gclid=CjwKCAjwruSHBhAtEiwA_qCpppipq6HfkOgEkfubgxEEUQAKqUZqOuafkeAjh6A8dDxeB9imK6n3bBoC0nIQAvD_BwE&gclsrc=aw.ds">Kotlin</a>
   </li>
-  <h3>Library 📚:</h3>
   <li>
     <a href="https://getbootstrap.com/">Bootstrap</a>
   </li>
@@ -24,8 +24,9 @@
    <li>
     <a href="https://jquery.com/">jQuery</a>
   </li>
-</ul
- <h3>Actualy i'm learning ✍️:</h3>
+</ul>
+<br>
+ <h2>Actualy i'm learning ✍️:</h2>
  <ul>
  <li>
  <a href="https://reactnative.dev/">React.js & React Native</a>
