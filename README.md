@@ -10,7 +10,7 @@
      <a href="https://www.w3schools.com/css/">CSS3</a>
   </li>
      <li>
-     <a href="https://www.w3schools.com/css/">XML</a>
+     <a href="https://en.wikipedia.org/wiki/XML#:~:text=Extensible%20Markup%20Language%20(XML)%20is,free%20open%20standards%E2%80%94define%20XML.">XML</a>
   </li>
   <li>
     <a href="https://www.javascript.com/">JavaScript</a>
