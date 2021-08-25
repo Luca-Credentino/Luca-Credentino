@@ -18,9 +18,6 @@
   <li>
     <a href="https://getbootstrap.com/">Bootstrap</a>
   </li>
-  <li>
-      <a href="https://reactjs.org/">React.js</a>
- </li>
    <li>
     <a href="https://jquery.com/">jQuery</a>
   </li>
